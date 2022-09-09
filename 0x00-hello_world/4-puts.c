@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/** 
+/**
 *main - This prints strings
 *
-* Description: 'this still prints strings'
+* Description: 'this still prints strings
 *
 *Return: Always 0 (Success)
 */
