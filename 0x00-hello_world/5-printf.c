@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- *
- * main - Entry point
+ *main - CODE STARTS HERE
  *
  * Description: 'prints strings'
  *
