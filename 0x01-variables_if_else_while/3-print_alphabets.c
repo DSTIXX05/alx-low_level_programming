@@ -3,6 +3,7 @@
 /**
  * main - Prints
  *
+ * Descriptionm: Prints A-Z in upper and lowercase
  * Return: 0 always
  */
 
@@ -19,3 +20,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
