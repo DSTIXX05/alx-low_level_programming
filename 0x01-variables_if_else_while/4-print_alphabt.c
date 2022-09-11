@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- *main: The program starts here.
+/**
+ * main - The program starts here.
  *
  * Description: This program prints evey lowercase letter except q and e
  *
