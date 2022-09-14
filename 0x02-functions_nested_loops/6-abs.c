@@ -2,7 +2,7 @@
 #include "main.h"
 
 /*
- * _abs - returns the absolute value of an integer
+ * _abs - function that computes the absolute value of an integer
  * @n: The integer to check
  *
  * Return: an integer which is the absolute value of n
