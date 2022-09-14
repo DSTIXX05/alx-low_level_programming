@@ -17,9 +17,8 @@ void times_table(void)
 			a = (x * y) / 10;
 			b = (x * y) % 10;
 
-			if ((x*y) > 9)
+			if ((x * y) > 9)
 				_putchar(a + '0');
-			
 			_putchar(b + '0');
 
 			if (y != 9)
@@ -27,7 +26,6 @@ void times_table(void)
 				_putchar(',');
 				_putchar(' ');
 			}
-
 			if (y == 9 && x == 0)
 				break;
 			else if (x * (y + 1) < 10)
