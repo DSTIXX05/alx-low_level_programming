@@ -1,1 +1,1 @@
-Alx projects on pointers, strings and arrays
+this file is to approve my pointer skills lol
