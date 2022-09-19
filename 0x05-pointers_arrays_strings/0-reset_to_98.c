@@ -3,6 +3,7 @@
 
 /**
  * reset_to_98 - Entry point
+ * @n: pointer to reset to 90
  *
  * Description: resets value to 98
  *
