@@ -1,8 +1,8 @@
-include "main.h"
+#include "main.h"
 
 
 /**
- * main - Entry point
+ * reset_to_98 - Entry point
  *
  * Description: resets value to 98
  *
