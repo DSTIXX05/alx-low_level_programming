@@ -1,1 +1,1 @@
-OMO this is low lvl programming like this o
+Thisfolder contains alx projects for functions and nested loops in c

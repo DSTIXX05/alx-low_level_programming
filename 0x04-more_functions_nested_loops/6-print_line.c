@@ -1,20 +1,21 @@
 #include "main.h"
 
 /**
- * print line - printing lines
- * @n: number of times
+ * main - Entry point
  *
- * Return: void
+ * Description: prints lines
+ *
+ * Return: 0(Success)
  */
 
 void print_line(int n)
 {
 	int i = 1;
 
-	while (i <= n)
+	while (1 <= n)
 	{
-		_putchar(95);
-		i++;
+	_putchar(95);
+	i++;
 	}
 	_putchar('\n');
 }
