@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ *
  * _strspn - search a string for a set of bytes
  * @s: source string
  * @accept: accepted string
@@ -18,16 +19,16 @@ unsigned int _strspn(char *s, char *accept)
 
 		while (s[b] != 32)
 		{
-			b = 0;
-
-			while (s[b] != 32)
+			if (accept[a] == s[b])
 			{
-				if (accept[a] == s[b])
-					t++;
+				t++;
 			}
+
 			b++;
 		}
+
 		a++;
+
 	}
 
 	return (t);
