@@ -1,2 +1,1 @@
-I'm so clueless on this
-
+this project is on libraries in C.
