@@ -1,1 +1,1 @@
-this project is on libraries in C.
+0x09. C - Static libraries alx tasks
