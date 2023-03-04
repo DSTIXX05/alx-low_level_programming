@@ -1,13 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: prints lines
- *
- * Return: 0(Success)
+ * print_line - prints lines in the terminal.
+ * @n - number of times the undescore gets printed.
  */
-
 void print_line(int n)
 {
 	int i = 1;
