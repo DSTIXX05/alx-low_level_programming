@@ -2,7 +2,7 @@
 
 /**
  * print_line - prints lines in the terminal.
- * @n - number of times the undescore gets printed.
+ * @n: number of times the undescore gets printed.
  */
 void print_line(int n)
 {
